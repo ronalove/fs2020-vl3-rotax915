@@ -9,11 +9,11 @@ This mod is experimental. It has been made by gamers, not experts !
 
 ## Downloads
 
-* Download the latest release from us in the [Release section](https://github.com/r9r-dev/fs2020-vl3-rotax915/releases)
+* Download the latest release from us in the [Release section](https://github.com/ronalove/fs2020-vl3-rotax915/releases)
 * Download the [nightly build](https://915.r9r.dev/nightly.zip) made everyday at 2a.m. UTC
 * Download the [latest build](https://915.r9r.dev/latest.zip) made after every push
 
-![nightly](https://github.com/r9r-dev/fs2020-vl3-rotax915/workflows/nightly/badge.svg) ![latest](https://github.com/r9r-dev/fs2020-vl3-rotax915/workflows/latest/badge.svg)
+![nightly](https://github.com/ronalove/fs2020-vl3-rotax915/workflows/nightly/badge.svg) ![latest](https://github.com/ronalove/fs2020-vl3-rotax915/workflows/latest/badge.svg)
 
 The release is the only one tested and verified before publication. The nightly and latest versions may sometimes not work but allow you to test our latest modifications. The nightly and latest versions are hosted in a datacenter in Paris and may be slower or faster to download depending on your region.
 
